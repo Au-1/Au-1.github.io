@@ -1,288 +1,288 @@
 {
-  "\u0000/Users/au/Downloads/antfu.me-main/node_modules/.pnpm/dayjs@1.11.10/node_modules/dayjs/dayjs.min.js?commonjs-module": [],
-  "\u0000/Users/au/Downloads/antfu.me-main/node_modules/.pnpm/dayjs@1.11.10/node_modules/dayjs/plugin/localizedFormat.js?commonjs-module": [],
-  "\u0000/Users/au/Downloads/antfu.me-main/node_modules/.pnpm/nprogress@0.2.0/node_modules/nprogress/nprogress.js?commonjs-module": [],
+  "\u0000/Users/au/Documents/code/Au-1.github.io/node_modules/.pnpm/dayjs@1.11.10/node_modules/dayjs/dayjs.min.js?commonjs-module": [],
+  "\u0000/Users/au/Documents/code/Au-1.github.io/node_modules/.pnpm/dayjs@1.11.10/node_modules/dayjs/plugin/localizedFormat.js?commonjs-module": [],
+  "\u0000/Users/au/Documents/code/Au-1.github.io/node_modules/.pnpm/nprogress@0.2.0/node_modules/nprogress/nprogress.js?commonjs-module": [],
   "\u0000commonjsHelpers.js": [],
   "\u0000plugin-vue:export-helper": [],
   "\u0000vite/modulepreload-polyfill.js": [],
   "\u0000vite/preload-helper.js": [],
   "\u0000vite:asset:public/images/a-paris-1.jpg": [
-    "/assets/bonjour-paris-M1Vv4Mwj.js"
+    "/assets/bonjour-paris-sBy5Tz6S.js"
   ],
   "\u0000vite:asset:public/images/a-paris-2.jpg": [
-    "/assets/bonjour-paris-M1Vv4Mwj.js"
+    "/assets/bonjour-paris-sBy5Tz6S.js"
   ],
   "\u0000vite:asset:public/images/a-paris-3.jpg": [
-    "/assets/bonjour-paris-M1Vv4Mwj.js"
+    "/assets/bonjour-paris-sBy5Tz6S.js"
   ],
   "\u0000vite:asset:public/images/a-paris-4.jpg": [
-    "/assets/bonjour-paris-M1Vv4Mwj.js"
+    "/assets/bonjour-paris-sBy5Tz6S.js"
   ],
   "\u0000vite:asset:public/images/a-paris-5.jpg": [
-    "/assets/bonjour-paris-M1Vv4Mwj.js"
+    "/assets/bonjour-paris-sBy5Tz6S.js"
   ],
   "\u0000vite:asset:public/images/ai-qrcode-101-example1.jpg": [
-    "/assets/ai-qrcode-101-wjj6N111.js",
+    "/assets/ai-qrcode-101-oZg-gcDo.js",
     "/assets/ai-qrcode-101-DahVa5l3.css"
   ],
   "\u0000vite:asset:public/images/ai-qrcode-101-example2.jpg": [
-    "/assets/ai-qrcode-101-wjj6N111.js",
+    "/assets/ai-qrcode-101-oZg-gcDo.js",
     "/assets/ai-qrcode-101-DahVa5l3.css"
   ],
   "\u0000vite:asset:public/images/ai-qrcode-101-example3.jpg": [
-    "/assets/ai-qrcode-101-wjj6N111.js",
+    "/assets/ai-qrcode-101-oZg-gcDo.js",
     "/assets/ai-qrcode-101-DahVa5l3.css"
   ],
   "\u0000vite:asset:public/images/ai-qrcode-101-multi-cn-monster-monster-w100-brightness-w010-s04-e08-pattern-w010-s04-e08.png": [
-    "/assets/ai-qrcode-101-wjj6N111.js",
+    "/assets/ai-qrcode-101-oZg-gcDo.js",
     "/assets/ai-qrcode-101-DahVa5l3.css"
   ],
   "\u0000vite:asset:public/images/ai-qrcode-101-multi-cn-monster-w100-s00-e10-brightness-w015-s01-e10.png": [
-    "/assets/ai-qrcode-101-wjj6N111.js",
+    "/assets/ai-qrcode-101-oZg-gcDo.js",
     "/assets/ai-qrcode-101-DahVa5l3.css"
   ],
   "\u0000vite:asset:public/images/ai-qrcode-101-multi-cn-monster-w100-s00-e10-brightness-w025-s04-e08.png": [
-    "/assets/ai-qrcode-101-wjj6N111.js",
+    "/assets/ai-qrcode-101-oZg-gcDo.js",
     "/assets/ai-qrcode-101-DahVa5l3.css"
   ],
   "\u0000vite:asset:public/images/ai-qrcode-101-multi-cn-monster-w100.png": [
-    "/assets/ai-qrcode-101-wjj6N111.js",
+    "/assets/ai-qrcode-101-oZg-gcDo.js",
     "/assets/ai-qrcode-101-DahVa5l3.css"
   ],
   "\u0000vite:asset:public/images/ai-qrcode-101-multi-cn-monster-w125.png": [
-    "/assets/ai-qrcode-101-wjj6N111.js",
+    "/assets/ai-qrcode-101-oZg-gcDo.js",
     "/assets/ai-qrcode-101-DahVa5l3.css"
   ],
   "\u0000vite:asset:public/images/ai-qrcode-101-multi-cn-monster-w140.png": [
-    "/assets/ai-qrcode-101-wjj6N111.js",
+    "/assets/ai-qrcode-101-oZg-gcDo.js",
     "/assets/ai-qrcode-101-DahVa5l3.css"
   ],
   "\u0000vite:asset:public/images/ai-qrcode-101-multi-cn-monster-w150.png": [
-    "/assets/ai-qrcode-101-wjj6N111.js",
+    "/assets/ai-qrcode-101-oZg-gcDo.js",
     "/assets/ai-qrcode-101-DahVa5l3.css"
   ],
   "\u0000vite:asset:public/images/ai-qrcode-101-multi-cn-monster-w160.png": [
-    "/assets/ai-qrcode-101-wjj6N111.js",
+    "/assets/ai-qrcode-101-oZg-gcDo.js",
     "/assets/ai-qrcode-101-DahVa5l3.css"
   ],
   "\u0000vite:asset:public/images/ai-qrcode-101-multi-cn-monster-w170.png": [
-    "/assets/ai-qrcode-101-wjj6N111.js",
+    "/assets/ai-qrcode-101-oZg-gcDo.js",
     "/assets/ai-qrcode-101-DahVa5l3.css"
   ],
   "\u0000vite:asset:public/images/ai-qrcode-101-multi-cn-original.png": [
-    "/assets/ai-qrcode-101-wjj6N111.js",
+    "/assets/ai-qrcode-101-oZg-gcDo.js",
     "/assets/ai-qrcode-101-DahVa5l3.css"
   ],
   "\u0000vite:asset:public/images/ai-qrcode-101-multi-cn-qr.png": [
-    "/assets/ai-qrcode-101-wjj6N111.js",
+    "/assets/ai-qrcode-101-oZg-gcDo.js",
     "/assets/ai-qrcode-101-DahVa5l3.css"
   ],
   "\u0000vite:asset:public/images/ai-qrcode-101-multi-cn-settings.png": [
-    "/assets/ai-qrcode-101-wjj6N111.js",
+    "/assets/ai-qrcode-101-oZg-gcDo.js",
     "/assets/ai-qrcode-101-DahVa5l3.css"
   ],
   "\u0000vite:asset:public/images/ai-qrcode-101-non-square-example1.jpg": [
-    "/assets/ai-qrcode-101-wjj6N111.js",
+    "/assets/ai-qrcode-101-oZg-gcDo.js",
     "/assets/ai-qrcode-101-DahVa5l3.css"
   ],
   "\u0000vite:asset:public/images/ai-qrcode-101-non-square-example3.jpg": [
-    "/assets/ai-qrcode-101-wjj6N111.js",
+    "/assets/ai-qrcode-101-oZg-gcDo.js",
     "/assets/ai-qrcode-101-DahVa5l3.css"
   ],
   "\u0000vite:asset:public/images/ai-qrcode-101-non-square-resize.png": [
-    "/assets/ai-qrcode-101-wjj6N111.js",
+    "/assets/ai-qrcode-101-oZg-gcDo.js",
     "/assets/ai-qrcode-101-DahVa5l3.css"
   ],
   "\u0000vite:asset:public/images/ai-qrcode-101-non-square-toolkit.png": [
-    "/assets/ai-qrcode-101-wjj6N111.js",
+    "/assets/ai-qrcode-101-oZg-gcDo.js",
     "/assets/ai-qrcode-101-DahVa5l3.css"
   ],
   "\u0000vite:asset:public/images/ai-qrcode-101-perspective-ep1.png": [
-    "/assets/ai-qrcode-101-wjj6N111.js",
+    "/assets/ai-qrcode-101-oZg-gcDo.js",
     "/assets/ai-qrcode-101-DahVa5l3.css"
   ],
   "\u0000vite:asset:public/images/ai-qrcode-101-perspective-ep2.png": [
-    "/assets/ai-qrcode-101-wjj6N111.js",
+    "/assets/ai-qrcode-101-oZg-gcDo.js",
     "/assets/ai-qrcode-101-DahVa5l3.css"
   ],
   "\u0000vite:asset:public/images/ai-qrcode-101-prompt-bird.jpg": [
-    "/assets/ai-qrcode-101-wjj6N111.js",
+    "/assets/ai-qrcode-101-oZg-gcDo.js",
     "/assets/ai-qrcode-101-DahVa5l3.css"
   ],
   "\u0000vite:asset:public/images/ai-qrcode-101-prompt-buildings.png": [
-    "/assets/ai-qrcode-101-wjj6N111.js",
+    "/assets/ai-qrcode-101-oZg-gcDo.js",
     "/assets/ai-qrcode-101-DahVa5l3.css"
   ],
   "\u0000vite:asset:public/images/ai-qrcode-101-prompt-feather.jpg": [
-    "/assets/ai-qrcode-101-wjj6N111.js",
+    "/assets/ai-qrcode-101-oZg-gcDo.js",
     "/assets/ai-qrcode-101-DahVa5l3.css"
   ],
   "\u0000vite:asset:public/images/ai-qrcode-101-prompt-katana-swords.jpg": [
-    "/assets/ai-qrcode-101-wjj6N111.js",
+    "/assets/ai-qrcode-101-oZg-gcDo.js",
     "/assets/ai-qrcode-101-DahVa5l3.css"
   ],
   "\u0000vite:asset:public/images/ai-qrcode-101-prompt-lace.jpg": [
-    "/assets/ai-qrcode-101-wjj6N111.js",
+    "/assets/ai-qrcode-101-oZg-gcDo.js",
     "/assets/ai-qrcode-101-DahVa5l3.css"
   ],
   "\u0000vite:asset:public/images/ai-qrcode-101-prompt-leaf.png": [
-    "/assets/ai-qrcode-101-wjj6N111.js",
+    "/assets/ai-qrcode-101-oZg-gcDo.js",
     "/assets/ai-qrcode-101-DahVa5l3.css"
   ],
   "\u0000vite:asset:public/images/ai-qrcode-101-prompt-ribbon.jpg": [
-    "/assets/ai-qrcode-101-wjj6N111.js",
+    "/assets/ai-qrcode-101-oZg-gcDo.js",
     "/assets/ai-qrcode-101-DahVa5l3.css"
   ],
   "\u0000vite:asset:public/images/ai-qrcode-101-prompt-shibori-patterns.jpg": [
-    "/assets/ai-qrcode-101-wjj6N111.js",
+    "/assets/ai-qrcode-101-oZg-gcDo.js",
     "/assets/ai-qrcode-101-DahVa5l3.css"
   ],
   "\u0000vite:asset:public/images/ai-qrcode-101-prompt-snow.jpg": [
-    "/assets/ai-qrcode-101-wjj6N111.js",
+    "/assets/ai-qrcode-101-oZg-gcDo.js",
     "/assets/ai-qrcode-101-DahVa5l3.css"
   ],
   "\u0000vite:asset:public/images/ai-qrcode-101-prompt-wave.png": [
-    "/assets/ai-qrcode-101-wjj6N111.js",
+    "/assets/ai-qrcode-101-oZg-gcDo.js",
     "/assets/ai-qrcode-101-DahVa5l3.css"
   ],
   "\u0000vite:asset:public/images/ai-qrcode-101-qr-struct.png": [
-    "/assets/ai-qrcode-101-wjj6N111.js",
+    "/assets/ai-qrcode-101-oZg-gcDo.js",
     "/assets/ai-qrcode-101-DahVa5l3.css"
   ],
   "\u0000vite:asset:public/images/ai-qrcode-101-render-type.png": [
-    "/assets/ai-qrcode-101-wjj6N111.js",
+    "/assets/ai-qrcode-101-oZg-gcDo.js",
     "/assets/ai-qrcode-101-DahVa5l3.css"
   ],
   "\u0000vite:asset:public/images/ai-qrcode-101-selective-layer-1.png": [
-    "/assets/ai-qrcode-101-wjj6N111.js",
+    "/assets/ai-qrcode-101-oZg-gcDo.js",
     "/assets/ai-qrcode-101-DahVa5l3.css"
   ],
   "\u0000vite:asset:public/images/ai-qrcode-101-selective-layer-2.png": [
-    "/assets/ai-qrcode-101-wjj6N111.js",
+    "/assets/ai-qrcode-101-oZg-gcDo.js",
     "/assets/ai-qrcode-101-DahVa5l3.css"
   ],
   "\u0000vite:asset:public/images/ai-qrcode-101-text-input1.png": [
-    "/assets/ai-qrcode-101-wjj6N111.js",
+    "/assets/ai-qrcode-101-oZg-gcDo.js",
     "/assets/ai-qrcode-101-DahVa5l3.css"
   ],
   "\u0000vite:asset:public/images/ai-qrcode-101-text-input2.png": [
-    "/assets/ai-qrcode-101-wjj6N111.js",
+    "/assets/ai-qrcode-101-oZg-gcDo.js",
     "/assets/ai-qrcode-101-DahVa5l3.css"
   ],
   "\u0000vite:asset:public/images/ai-qrcode-101-text-result1.jpg": [
-    "/assets/ai-qrcode-101-wjj6N111.js",
+    "/assets/ai-qrcode-101-oZg-gcDo.js",
     "/assets/ai-qrcode-101-DahVa5l3.css"
   ],
   "\u0000vite:asset:public/images/ai-qrcode-101-text-result2.png": [
-    "/assets/ai-qrcode-101-wjj6N111.js",
+    "/assets/ai-qrcode-101-oZg-gcDo.js",
     "/assets/ai-qrcode-101-DahVa5l3.css"
   ],
   "\u0000vite:asset:public/images/ai-qrcode-101-toolkit-scanner.png": [
-    "/assets/ai-qrcode-101-wjj6N111.js",
+    "/assets/ai-qrcode-101-oZg-gcDo.js",
     "/assets/ai-qrcode-101-DahVa5l3.css"
   ],
   "\u0000vite:asset:public/images/ai-qrcode-101-xyz.png": [
-    "/assets/ai-qrcode-101-wjj6N111.js",
+    "/assets/ai-qrcode-101-oZg-gcDo.js",
     "/assets/ai-qrcode-101-DahVa5l3.css"
   ],
   "\u0000vite:asset:public/images/ai-qrcode-controlnet-config.png": [
-    "/assets/ai-qrcode-e59E_fXP.js"
+    "/assets/ai-qrcode-Zkk8TXs5.js"
   ],
   "\u0000vite:asset:public/images/ai-qrcode-examples-grid.png": [
-    "/assets/ai-qrcode-e59E_fXP.js"
+    "/assets/ai-qrcode-Zkk8TXs5.js"
   ],
   "\u0000vite:asset:public/images/ai-qrcode-final.jpg": [
-    "/assets/ai-qrcode-e59E_fXP.js"
+    "/assets/ai-qrcode-Zkk8TXs5.js"
   ],
   "\u0000vite:asset:public/images/ai-qrcode-ines.png": [
-    "/assets/ai-qrcode-e59E_fXP.js"
+    "/assets/ai-qrcode-Zkk8TXs5.js"
   ],
   "\u0000vite:asset:public/images/ai-qrcode-original.jpg": [
-    "/assets/ai-qrcode-e59E_fXP.js"
+    "/assets/ai-qrcode-Zkk8TXs5.js"
   ],
   "\u0000vite:asset:public/images/ai-qrcode-overlay-inpaint.png": [
-    "/assets/ai-qrcode-e59E_fXP.js"
+    "/assets/ai-qrcode-Zkk8TXs5.js"
   ],
   "\u0000vite:asset:public/images/ai-qrcode-ps-layers.png": [
-    "/assets/ai-qrcode-e59E_fXP.js"
+    "/assets/ai-qrcode-Zkk8TXs5.js"
   ],
   "\u0000vite:asset:public/images/ai-qrcode-refine-4.jpg": [
-    "/assets/ai-qrcode-refine-Nn1m3UMw.js"
+    "/assets/ai-qrcode-refine-hfmWqm7e.js"
   ],
   "\u0000vite:asset:public/images/ai-qrcode-refine-5.jpg": [
-    "/assets/ai-qrcode-refine-Nn1m3UMw.js"
+    "/assets/ai-qrcode-refine-hfmWqm7e.js"
   ],
   "\u0000vite:asset:public/images/ai-qrcode-refine-compare-1.png": [
-    "/assets/ai-qrcode-refine-Nn1m3UMw.js"
+    "/assets/ai-qrcode-refine-hfmWqm7e.js"
   ],
   "\u0000vite:asset:public/images/ai-qrcode-refine-compare-2.png": [
     "/assets/ai-qrcode-refine-distort-result--B2CRERD.js"
   ],
   "\u0000vite:asset:public/images/ai-qrcode-refine-compare-3.png": [
-    "/assets/ai-qrcode-refine-Nn1m3UMw.js"
+    "/assets/ai-qrcode-refine-hfmWqm7e.js"
   ],
   "\u0000vite:asset:public/images/ai-qrcode-refine-compare-4.png": [
-    "/assets/ai-qrcode-refine-Nn1m3UMw.js"
+    "/assets/ai-qrcode-refine-hfmWqm7e.js"
   ],
   "\u0000vite:asset:public/images/ai-qrcode-refine-compare-final-1.png": [
-    "/assets/ai-qrcode-refine-Nn1m3UMw.js"
+    "/assets/ai-qrcode-refine-hfmWqm7e.js"
   ],
   "\u0000vite:asset:public/images/ai-qrcode-refine-compare-final-2.png": [
-    "/assets/ai-qrcode-refine-Nn1m3UMw.js"
+    "/assets/ai-qrcode-refine-hfmWqm7e.js"
   ],
   "\u0000vite:asset:public/images/ai-qrcode-refine-distort-1.png": [
-    "/assets/ai-qrcode-refine-Nn1m3UMw.js"
+    "/assets/ai-qrcode-refine-hfmWqm7e.js"
   ],
   "\u0000vite:asset:public/images/ai-qrcode-refine-distort-2.png": [
-    "/assets/ai-qrcode-refine-Nn1m3UMw.js"
+    "/assets/ai-qrcode-refine-hfmWqm7e.js"
   ],
   "\u0000vite:asset:public/images/ai-qrcode-refine-distort-result.png": [
     "/assets/ai-qrcode-refine-distort-result--B2CRERD.js"
   ],
   "\u0000vite:asset:public/images/ai-qrcode-refine-final.jpg": [
-    "/assets/ai-qrcode-refine-Nn1m3UMw.js"
+    "/assets/ai-qrcode-refine-hfmWqm7e.js"
   ],
   "\u0000vite:asset:public/images/ai-qrcode-refine-generate-1.png": [
-    "/assets/ai-qrcode-refine-Nn1m3UMw.js"
+    "/assets/ai-qrcode-refine-hfmWqm7e.js"
   ],
   "\u0000vite:asset:public/images/ai-qrcode-refine-generate-2.png": [
-    "/assets/ai-qrcode-refine-Nn1m3UMw.js"
+    "/assets/ai-qrcode-refine-hfmWqm7e.js"
   ],
   "\u0000vite:asset:public/images/ai-qrcode-refine-input-compare.jpg": [
     "/assets/ai-qrcode-refine-distort-result--B2CRERD.js"
   ],
   "\u0000vite:asset:public/images/ai-qrcode-refine-no-anchor.png": [
-    "/assets/ai-qrcode-refine-Nn1m3UMw.js"
+    "/assets/ai-qrcode-refine-hfmWqm7e.js"
   ],
   "\u0000vite:asset:public/images/ai-qrcode-refine-plus-sign.png": [
-    "/assets/ai-qrcode-refine-Nn1m3UMw.js"
+    "/assets/ai-qrcode-refine-hfmWqm7e.js"
   ],
   "\u0000vite:asset:public/images/ai-qrcode-refine-qrbft.png": [
-    "/assets/ai-qrcode-refine-Nn1m3UMw.js"
+    "/assets/ai-qrcode-refine-hfmWqm7e.js"
   ],
   "\u0000vite:asset:public/images/ai-qrcode-t2i.png": [
-    "/assets/ai-qrcode-e59E_fXP.js"
+    "/assets/ai-qrcode-Zkk8TXs5.js"
   ],
   "\u0000vite:asset:public/images/ai-qrcode-upscale.png": [
-    "/assets/ai-qrcode-e59E_fXP.js"
+    "/assets/ai-qrcode-Zkk8TXs5.js"
   ],
   "\u0000vite:asset:public/images/animated-svg-logo-mask.png": [
-    "/assets/animated-svg-logo-cqiwEHve.js",
+    "/assets/animated-svg-logo-GrZKvLfm.js",
     "/assets/animated-svg-logo-8T7YcC_E.css"
   ],
   "\u0000vite:asset:public/images/animated-svg-logo-redraw.png": [
-    "/assets/animated-svg-logo-cqiwEHve.js",
+    "/assets/animated-svg-logo-GrZKvLfm.js",
     "/assets/animated-svg-logo-8T7YcC_E.css"
   ],
   "\u0000vite:asset:public/images/animated-svg-logo-vector.png": [
-    "/assets/animated-svg-logo-cqiwEHve.js",
+    "/assets/animated-svg-logo-GrZKvLfm.js",
     "/assets/animated-svg-logo-8T7YcC_E.css"
   ],
   "\u0000vite:asset:public/images/discover-windicss-zh.png": [
-    "/assets/reimagine-atomic-css-zh-jVU_euvm.js"
+    "/assets/reimagine-atomic-css-zh-0KWD09Lr.js"
   ],
   "\u0000vite:asset:public/images/discover-windicss.png": [
-    "/assets/reimagine-atomic-css-61HS8U9D.js"
+    "/assets/reimagine-atomic-css-AQcnPN60.js"
   ],
   "\u0000vite:asset:public/images/github-inbox-dark.png": [
     "/assets/github-inbox-dark-f7XNTL_X.js"
@@ -291,7 +291,7 @@
     "/assets/github-inbox-dark-f7XNTL_X.js"
   ],
   "\u0000vite:asset:public/images/ios-qrcode-scanner.jpg": [
-    "/assets/QRNotScannable-QnRcIgPc.js"
+    "/assets/QRNotScannable-U7nASkGH.js"
   ],
   "\u0000vite:asset:public/images/issue-close-without-repro-dark.png": [
     "/assets/github-inbox-dark-f7XNTL_X.js"
@@ -300,53 +300,53 @@
     "/assets/github-inbox-dark-f7XNTL_X.js"
   ],
   "\u0000vite:asset:public/images/logo-histoire.svg": [
-    "/assets/dev-ssr-on-nuxt-AiXLrDAM.js"
+    "/assets/dev-ssr-on-nuxt-Efuh4cPj.js"
   ],
   "\u0000vite:asset:public/images/logo-nuxt3.svg": [
-    "/assets/dev-ssr-on-nuxt-AiXLrDAM.js"
+    "/assets/dev-ssr-on-nuxt-Efuh4cPj.js"
   ],
   "\u0000vite:asset:public/images/logo-termui.svg": [
-    "/assets/dev-ssr-on-nuxt-AiXLrDAM.js"
+    "/assets/dev-ssr-on-nuxt-Efuh4cPj.js"
   ],
   "\u0000vite:asset:public/images/logo-vite-node.svg": [
-    "/assets/dev-ssr-on-nuxt-AiXLrDAM.js"
+    "/assets/dev-ssr-on-nuxt-Efuh4cPj.js"
   ],
   "\u0000vite:asset:public/images/logo-vitest.svg": [
-    "/assets/dev-ssr-on-nuxt-AiXLrDAM.js"
+    "/assets/dev-ssr-on-nuxt-Efuh4cPj.js"
   ],
   "\u0000vite:asset:public/images/nuxt-vite-node-hmr.png": [
-    "/assets/dev-ssr-on-nuxt-AiXLrDAM.js"
+    "/assets/dev-ssr-on-nuxt-Efuh4cPj.js"
   ],
   "\u0000vite:asset:public/images/oss-mental-iron-triangle-zh.svg": [
-    "/assets/mental-health-oss-zh-JTd7YxMI.js"
+    "/assets/mental-health-oss-zh-5WSewz2-.js"
   ],
   "\u0000vite:asset:public/images/oss-mental-iron-triangle.svg": [
-    "/assets/mental-health-oss-VHOKsuvM.js"
+    "/assets/mental-health-oss-mh3lSS5L.js"
   ],
   "\u0000vite:asset:public/images/prettier-print-width.png": [
     "/assets/prettier-print-width-UOSnocnv.js"
   ],
   "\u0000vite:asset:public/images/unocss-on-demand-way-zh.png": [
-    "/assets/reimagine-atomic-css-zh-jVU_euvm.js"
+    "/assets/reimagine-atomic-css-zh-0KWD09Lr.js"
   ],
   "\u0000vite:asset:public/images/unocss-on-demand-way.png": [
-    "/assets/reimagine-atomic-css-61HS8U9D.js"
+    "/assets/reimagine-atomic-css-AQcnPN60.js"
   ],
   "\u0000vite:asset:public/images/unocss-traditional-way-zh.png": [
-    "/assets/reimagine-atomic-css-zh-jVU_euvm.js"
+    "/assets/reimagine-atomic-css-zh-0KWD09Lr.js"
   ],
   "\u0000vite:asset:public/images/unocss-traditional-way.png": [
-    "/assets/reimagine-atomic-css-61HS8U9D.js"
+    "/assets/reimagine-atomic-css-AQcnPN60.js"
   ],
   "\u0000vite:asset:public/logo.svg": [
-    "/assets/animated-svg-logo-cqiwEHve.js",
+    "/assets/animated-svg-logo-GrZKvLfm.js",
     "/assets/animated-svg-logo-8T7YcC_E.css"
   ],
-  "../../../../@vite-plugin-pages/generated-pages?id=pages-generated": [],
-  "../../../../__uno.css": [],
+  "../../../../../@vite-plugin-pages/generated-pages?id=pages-generated": [],
+  "../../../../../__uno.css": [],
   "assets/app-!~{001}~.js-unocss-hash.css": [],
   "demo/2021-01-12.md": [
-    "/assets/demos-8ByJsALA.js",
+    "/assets/demos-dmWfeD2B.js",
     "/assets/2021-01-12-5wMItiWp.mp4",
     "/assets/2021-03-01-HuDV4hRD.mp4",
     "/assets/2021-03-16-3xgRf_Sx.mp4",
@@ -375,7 +375,7 @@
     "/assets/2023-06-23-yYQoUeZR.mp4"
   ],
   "demo/2021-01-12.mp4?url": [
-    "/assets/demos-8ByJsALA.js",
+    "/assets/demos-dmWfeD2B.js",
     "/assets/2021-01-12-5wMItiWp.mp4",
     "/assets/2021-03-01-HuDV4hRD.mp4",
     "/assets/2021-03-16-3xgRf_Sx.mp4",
@@ -404,7 +404,7 @@
     "/assets/2023-06-23-yYQoUeZR.mp4"
   ],
   "demo/2021-03-01.md": [
-    "/assets/demos-8ByJsALA.js",
+    "/assets/demos-dmWfeD2B.js",
     "/assets/2021-01-12-5wMItiWp.mp4",
     "/assets/2021-03-01-HuDV4hRD.mp4",
     "/assets/2021-03-16-3xgRf_Sx.mp4",
@@ -433,7 +433,7 @@
     "/assets/2023-06-23-yYQoUeZR.mp4"
   ],
   "demo/2021-03-01.mp4?url": [
-    "/assets/demos-8ByJsALA.js",
+    "/assets/demos-dmWfeD2B.js",
     "/assets/2021-01-12-5wMItiWp.mp4",
     "/assets/2021-03-01-HuDV4hRD.mp4",
     "/assets/2021-03-16-3xgRf_Sx.mp4",
@@ -462,7 +462,7 @@
     "/assets/2023-06-23-yYQoUeZR.mp4"
   ],
   "demo/2021-03-16.md": [
-    "/assets/demos-8ByJsALA.js",
+    "/assets/demos-dmWfeD2B.js",
     "/assets/2021-01-12-5wMItiWp.mp4",
     "/assets/2021-03-01-HuDV4hRD.mp4",
     "/assets/2021-03-16-3xgRf_Sx.mp4",
@@ -491,7 +491,7 @@
     "/assets/2023-06-23-yYQoUeZR.mp4"
   ],
   "demo/2021-03-16.mp4?url": [
-    "/assets/demos-8ByJsALA.js",
+    "/assets/demos-dmWfeD2B.js",
     "/assets/2021-01-12-5wMItiWp.mp4",
     "/assets/2021-03-01-HuDV4hRD.mp4",
     "/assets/2021-03-16-3xgRf_Sx.mp4",
@@ -520,7 +520,7 @@
     "/assets/2023-06-23-yYQoUeZR.mp4"
   ],
   "demo/2021-05-01.md": [
-    "/assets/demos-8ByJsALA.js",
+    "/assets/demos-dmWfeD2B.js",
     "/assets/2021-01-12-5wMItiWp.mp4",
     "/assets/2021-03-01-HuDV4hRD.mp4",
     "/assets/2021-03-16-3xgRf_Sx.mp4",
@@ -549,7 +549,7 @@
     "/assets/2023-06-23-yYQoUeZR.mp4"
   ],
   "demo/2021-05-01.mp4?url": [
-    "/assets/demos-8ByJsALA.js",
+    "/assets/demos-dmWfeD2B.js",
     "/assets/2021-01-12-5wMItiWp.mp4",
     "/assets/2021-03-01-HuDV4hRD.mp4",
     "/assets/2021-03-16-3xgRf_Sx.mp4",
@@ -578,7 +578,7 @@
     "/assets/2023-06-23-yYQoUeZR.mp4"
   ],
   "demo/2021-05-23.md": [
-    "/assets/demos-8ByJsALA.js",
+    "/assets/demos-dmWfeD2B.js",
     "/assets/2021-01-12-5wMItiWp.mp4",
     "/assets/2021-03-01-HuDV4hRD.mp4",
     "/assets/2021-03-16-3xgRf_Sx.mp4",
@@ -607,7 +607,7 @@
     "/assets/2023-06-23-yYQoUeZR.mp4"
   ],
   "demo/2021-05-23.mp4?url": [
-    "/assets/demos-8ByJsALA.js",
+    "/assets/demos-dmWfeD2B.js",
     "/assets/2021-01-12-5wMItiWp.mp4",
     "/assets/2021-03-01-HuDV4hRD.mp4",
     "/assets/2021-03-16-3xgRf_Sx.mp4",
@@ -636,7 +636,7 @@
     "/assets/2023-06-23-yYQoUeZR.mp4"
   ],
   "demo/2021-08-17.md": [
-    "/assets/demos-8ByJsALA.js",
+    "/assets/demos-dmWfeD2B.js",
     "/assets/2021-01-12-5wMItiWp.mp4",
     "/assets/2021-03-01-HuDV4hRD.mp4",
     "/assets/2021-03-16-3xgRf_Sx.mp4",
@@ -665,7 +665,7 @@
     "/assets/2023-06-23-yYQoUeZR.mp4"
   ],
   "demo/2021-08-17.mp4?url": [
-    "/assets/demos-8ByJsALA.js",
+    "/assets/demos-dmWfeD2B.js",
     "/assets/2021-01-12-5wMItiWp.mp4",
     "/assets/2021-03-01-HuDV4hRD.mp4",
     "/assets/2021-03-16-3xgRf_Sx.mp4",
@@ -694,7 +694,7 @@
     "/assets/2023-06-23-yYQoUeZR.mp4"
   ],
   "demo/2021-09-11.md": [
-    "/assets/demos-8ByJsALA.js",
+    "/assets/demos-dmWfeD2B.js",
     "/assets/2021-01-12-5wMItiWp.mp4",
     "/assets/2021-03-01-HuDV4hRD.mp4",
     "/assets/2021-03-16-3xgRf_Sx.mp4",
@@ -723,7 +723,7 @@
     "/assets/2023-06-23-yYQoUeZR.mp4"
   ],
   "demo/2021-09-11.mp4?url": [
-    "/assets/demos-8ByJsALA.js",
+    "/assets/demos-dmWfeD2B.js",
     "/assets/2021-01-12-5wMItiWp.mp4",
     "/assets/2021-03-01-HuDV4hRD.mp4",
     "/assets/2021-03-16-3xgRf_Sx.mp4",
@@ -752,7 +752,7 @@
     "/assets/2023-06-23-yYQoUeZR.mp4"
   ],
   "demo/2021-12-07.md": [
-    "/assets/demos-8ByJsALA.js",
+    "/assets/demos-dmWfeD2B.js",
     "/assets/2021-01-12-5wMItiWp.mp4",
     "/assets/2021-03-01-HuDV4hRD.mp4",
     "/assets/2021-03-16-3xgRf_Sx.mp4",
@@ -781,7 +781,7 @@
     "/assets/2023-06-23-yYQoUeZR.mp4"
   ],
   "demo/2021-12-07.mp4?url": [
-    "/assets/demos-8ByJsALA.js",
+    "/assets/demos-dmWfeD2B.js",
     "/assets/2021-01-12-5wMItiWp.mp4",
     "/assets/2021-03-01-HuDV4hRD.mp4",
     "/assets/2021-03-16-3xgRf_Sx.mp4",
@@ -810,7 +810,7 @@
     "/assets/2023-06-23-yYQoUeZR.mp4"
   ],
   "demo/2021-12-24.md": [
-    "/assets/demos-8ByJsALA.js",
+    "/assets/demos-dmWfeD2B.js",
     "/assets/2021-01-12-5wMItiWp.mp4",
     "/assets/2021-03-01-HuDV4hRD.mp4",
     "/assets/2021-03-16-3xgRf_Sx.mp4",
@@ -839,7 +839,7 @@
     "/assets/2023-06-23-yYQoUeZR.mp4"
   ],
   "demo/2021-12-24.mp4?url": [
-    "/assets/demos-8ByJsALA.js",
+    "/assets/demos-dmWfeD2B.js",
     "/assets/2021-01-12-5wMItiWp.mp4",
     "/assets/2021-03-01-HuDV4hRD.mp4",
     "/assets/2021-03-16-3xgRf_Sx.mp4",
@@ -868,7 +868,7 @@
     "/assets/2023-06-23-yYQoUeZR.mp4"
   ],
   "demo/2021-12-26.md": [
-    "/assets/demos-8ByJsALA.js",
+    "/assets/demos-dmWfeD2B.js",
     "/assets/2021-01-12-5wMItiWp.mp4",
     "/assets/2021-03-01-HuDV4hRD.mp4",
     "/assets/2021-03-16-3xgRf_Sx.mp4",
@@ -897,7 +897,7 @@
     "/assets/2023-06-23-yYQoUeZR.mp4"
   ],
   "demo/2021-12-26.mp4?url": [
-    "/assets/demos-8ByJsALA.js",
+    "/assets/demos-dmWfeD2B.js",
     "/assets/2021-01-12-5wMItiWp.mp4",
     "/assets/2021-03-01-HuDV4hRD.mp4",
     "/assets/2021-03-16-3xgRf_Sx.mp4",
@@ -926,7 +926,7 @@
     "/assets/2023-06-23-yYQoUeZR.mp4"
   ],
   "demo/2022-03-18.md": [
-    "/assets/demos-8ByJsALA.js",
+    "/assets/demos-dmWfeD2B.js",
     "/assets/2021-01-12-5wMItiWp.mp4",
     "/assets/2021-03-01-HuDV4hRD.mp4",
     "/assets/2021-03-16-3xgRf_Sx.mp4",
@@ -955,7 +955,7 @@
     "/assets/2023-06-23-yYQoUeZR.mp4"
   ],
   "demo/2022-03-18.mp4?url": [
-    "/assets/demos-8ByJsALA.js",
+    "/assets/demos-dmWfeD2B.js",
     "/assets/2021-01-12-5wMItiWp.mp4",
     "/assets/2021-03-01-HuDV4hRD.mp4",
     "/assets/2021-03-16-3xgRf_Sx.mp4",
@@ -984,7 +984,7 @@
     "/assets/2023-06-23-yYQoUeZR.mp4"
   ],
   "demo/2022-03-19.md": [
-    "/assets/demos-8ByJsALA.js",
+    "/assets/demos-dmWfeD2B.js",
     "/assets/2021-01-12-5wMItiWp.mp4",
     "/assets/2021-03-01-HuDV4hRD.mp4",
     "/assets/2021-03-16-3xgRf_Sx.mp4",
@@ -1013,7 +1013,7 @@
     "/assets/2023-06-23-yYQoUeZR.mp4"
   ],
   "demo/2022-03-19.mp4?url": [
-    "/assets/demos-8ByJsALA.js",
+    "/assets/demos-dmWfeD2B.js",
     "/assets/2021-01-12-5wMItiWp.mp4",
     "/assets/2021-03-01-HuDV4hRD.mp4",
     "/assets/2021-03-16-3xgRf_Sx.mp4",
@@ -1042,7 +1042,7 @@
     "/assets/2023-06-23-yYQoUeZR.mp4"
   ],
   "demo/2022-03-23.md": [
-    "/assets/demos-8ByJsALA.js",
+    "/assets/demos-dmWfeD2B.js",
     "/assets/2021-01-12-5wMItiWp.mp4",
     "/assets/2021-03-01-HuDV4hRD.mp4",
     "/assets/2021-03-16-3xgRf_Sx.mp4",
@@ -1071,7 +1071,7 @@
     "/assets/2023-06-23-yYQoUeZR.mp4"
   ],
   "demo/2022-03-23.mp4?url": [
-    "/assets/demos-8ByJsALA.js",
+    "/assets/demos-dmWfeD2B.js",
     "/assets/2021-01-12-5wMItiWp.mp4",
     "/assets/2021-03-01-HuDV4hRD.mp4",
     "/assets/2021-03-16-3xgRf_Sx.mp4",
@@ -1100,7 +1100,7 @@
     "/assets/2023-06-23-yYQoUeZR.mp4"
   ],
   "demo/2022-04-13.md": [
-    "/assets/demos-8ByJsALA.js",
+    "/assets/demos-dmWfeD2B.js",
     "/assets/2021-01-12-5wMItiWp.mp4",
     "/assets/2021-03-01-HuDV4hRD.mp4",
     "/assets/2021-03-16-3xgRf_Sx.mp4",
@@ -1129,7 +1129,7 @@
     "/assets/2023-06-23-yYQoUeZR.mp4"
   ],
   "demo/2022-04-13.mp4?url": [
-    "/assets/demos-8ByJsALA.js",
+    "/assets/demos-dmWfeD2B.js",
     "/assets/2021-01-12-5wMItiWp.mp4",
     "/assets/2021-03-01-HuDV4hRD.mp4",
     "/assets/2021-03-16-3xgRf_Sx.mp4",
@@ -1158,7 +1158,7 @@
     "/assets/2023-06-23-yYQoUeZR.mp4"
   ],
   "demo/2022-04-28.md": [
-    "/assets/demos-8ByJsALA.js",
+    "/assets/demos-dmWfeD2B.js",
     "/assets/2021-01-12-5wMItiWp.mp4",
     "/assets/2021-03-01-HuDV4hRD.mp4",
     "/assets/2021-03-16-3xgRf_Sx.mp4",
@@ -1187,7 +1187,7 @@
     "/assets/2023-06-23-yYQoUeZR.mp4"
   ],
   "demo/2022-04-28.mp4?url": [
-    "/assets/demos-8ByJsALA.js",
+    "/assets/demos-dmWfeD2B.js",
     "/assets/2021-01-12-5wMItiWp.mp4",
     "/assets/2021-03-01-HuDV4hRD.mp4",
     "/assets/2021-03-16-3xgRf_Sx.mp4",
@@ -1216,7 +1216,7 @@
     "/assets/2023-06-23-yYQoUeZR.mp4"
   ],
   "demo/2023-01-29.md": [
-    "/assets/demos-8ByJsALA.js",
+    "/assets/demos-dmWfeD2B.js",
     "/assets/2021-01-12-5wMItiWp.mp4",
     "/assets/2021-03-01-HuDV4hRD.mp4",
     "/assets/2021-03-16-3xgRf_Sx.mp4",
@@ -1245,7 +1245,7 @@
     "/assets/2023-06-23-yYQoUeZR.mp4"
   ],
   "demo/2023-01-29.mp4?url": [
-    "/assets/demos-8ByJsALA.js",
+    "/assets/demos-dmWfeD2B.js",
     "/assets/2021-01-12-5wMItiWp.mp4",
     "/assets/2021-03-01-HuDV4hRD.mp4",
     "/assets/2021-03-16-3xgRf_Sx.mp4",
@@ -1274,7 +1274,7 @@
     "/assets/2023-06-23-yYQoUeZR.mp4"
   ],
   "demo/2023-02-27.md": [
-    "/assets/demos-8ByJsALA.js",
+    "/assets/demos-dmWfeD2B.js",
     "/assets/2021-01-12-5wMItiWp.mp4",
     "/assets/2021-03-01-HuDV4hRD.mp4",
     "/assets/2021-03-16-3xgRf_Sx.mp4",
@@ -1303,7 +1303,7 @@
     "/assets/2023-06-23-yYQoUeZR.mp4"
   ],
   "demo/2023-02-27.mp4?url": [
-    "/assets/demos-8ByJsALA.js",
+    "/assets/demos-dmWfeD2B.js",
     "/assets/2021-01-12-5wMItiWp.mp4",
     "/assets/2021-03-01-HuDV4hRD.mp4",
     "/assets/2021-03-16-3xgRf_Sx.mp4",
@@ -1332,7 +1332,7 @@
     "/assets/2023-06-23-yYQoUeZR.mp4"
   ],
   "demo/2023-03-18.md": [
-    "/assets/demos-8ByJsALA.js",
+    "/assets/demos-dmWfeD2B.js",
     "/assets/2021-01-12-5wMItiWp.mp4",
     "/assets/2021-03-01-HuDV4hRD.mp4",
     "/assets/2021-03-16-3xgRf_Sx.mp4",
@@ -1361,7 +1361,7 @@
     "/assets/2023-06-23-yYQoUeZR.mp4"
   ],
   "demo/2023-03-18.mp4?url": [
-    "/assets/demos-8ByJsALA.js",
+    "/assets/demos-dmWfeD2B.js",
     "/assets/2021-01-12-5wMItiWp.mp4",
     "/assets/2021-03-01-HuDV4hRD.mp4",
     "/assets/2021-03-16-3xgRf_Sx.mp4",
@@ -1390,7 +1390,7 @@
     "/assets/2023-06-23-yYQoUeZR.mp4"
   ],
   "demo/2023-03-27.md": [
-    "/assets/demos-8ByJsALA.js",
+    "/assets/demos-dmWfeD2B.js",
     "/assets/2021-01-12-5wMItiWp.mp4",
     "/assets/2021-03-01-HuDV4hRD.mp4",
     "/assets/2021-03-16-3xgRf_Sx.mp4",
@@ -1419,7 +1419,7 @@
     "/assets/2023-06-23-yYQoUeZR.mp4"
   ],
   "demo/2023-03-27.mp4?url": [
-    "/assets/demos-8ByJsALA.js",
+    "/assets/demos-dmWfeD2B.js",
     "/assets/2021-01-12-5wMItiWp.mp4",
     "/assets/2021-03-01-HuDV4hRD.mp4",
     "/assets/2021-03-16-3xgRf_Sx.mp4",
@@ -1448,7 +1448,7 @@
     "/assets/2023-06-23-yYQoUeZR.mp4"
   ],
   "demo/2023-04-30.md": [
-    "/assets/demos-8ByJsALA.js",
+    "/assets/demos-dmWfeD2B.js",
     "/assets/2021-01-12-5wMItiWp.mp4",
     "/assets/2021-03-01-HuDV4hRD.mp4",
     "/assets/2021-03-16-3xgRf_Sx.mp4",
@@ -1477,7 +1477,7 @@
     "/assets/2023-06-23-yYQoUeZR.mp4"
   ],
   "demo/2023-04-30.mp4?url": [
-    "/assets/demos-8ByJsALA.js",
+    "/assets/demos-dmWfeD2B.js",
     "/assets/2021-01-12-5wMItiWp.mp4",
     "/assets/2021-03-01-HuDV4hRD.mp4",
     "/assets/2021-03-16-3xgRf_Sx.mp4",
@@ -1506,7 +1506,7 @@
     "/assets/2023-06-23-yYQoUeZR.mp4"
   ],
   "demo/2023-05-07.md": [
-    "/assets/demos-8ByJsALA.js",
+    "/assets/demos-dmWfeD2B.js",
     "/assets/2021-01-12-5wMItiWp.mp4",
     "/assets/2021-03-01-HuDV4hRD.mp4",
     "/assets/2021-03-16-3xgRf_Sx.mp4",
@@ -1535,7 +1535,7 @@
     "/assets/2023-06-23-yYQoUeZR.mp4"
   ],
   "demo/2023-05-07.mp4?url": [
-    "/assets/demos-8ByJsALA.js",
+    "/assets/demos-dmWfeD2B.js",
     "/assets/2021-01-12-5wMItiWp.mp4",
     "/assets/2021-03-01-HuDV4hRD.mp4",
     "/assets/2021-03-16-3xgRf_Sx.mp4",
@@ -1564,7 +1564,7 @@
     "/assets/2023-06-23-yYQoUeZR.mp4"
   ],
   "demo/2023-05-08.md": [
-    "/assets/demos-8ByJsALA.js",
+    "/assets/demos-dmWfeD2B.js",
     "/assets/2021-01-12-5wMItiWp.mp4",
     "/assets/2021-03-01-HuDV4hRD.mp4",
     "/assets/2021-03-16-3xgRf_Sx.mp4",
@@ -1593,7 +1593,7 @@
     "/assets/2023-06-23-yYQoUeZR.mp4"
   ],
   "demo/2023-05-08.mp4?url": [
-    "/assets/demos-8ByJsALA.js",
+    "/assets/demos-dmWfeD2B.js",
     "/assets/2021-01-12-5wMItiWp.mp4",
     "/assets/2021-03-01-HuDV4hRD.mp4",
     "/assets/2021-03-16-3xgRf_Sx.mp4",
@@ -1622,7 +1622,7 @@
     "/assets/2023-06-23-yYQoUeZR.mp4"
   ],
   "demo/2023-05-23.md": [
-    "/assets/demos-8ByJsALA.js",
+    "/assets/demos-dmWfeD2B.js",
     "/assets/2021-01-12-5wMItiWp.mp4",
     "/assets/2021-03-01-HuDV4hRD.mp4",
     "/assets/2021-03-16-3xgRf_Sx.mp4",
@@ -1651,7 +1651,7 @@
     "/assets/2023-06-23-yYQoUeZR.mp4"
   ],
   "demo/2023-05-23.mp4?url": [
-    "/assets/demos-8ByJsALA.js",
+    "/assets/demos-dmWfeD2B.js",
     "/assets/2021-01-12-5wMItiWp.mp4",
     "/assets/2021-03-01-HuDV4hRD.mp4",
     "/assets/2021-03-16-3xgRf_Sx.mp4",
@@ -1680,7 +1680,7 @@
     "/assets/2023-06-23-yYQoUeZR.mp4"
   ],
   "demo/2023-06-06.md": [
-    "/assets/demos-8ByJsALA.js",
+    "/assets/demos-dmWfeD2B.js",
     "/assets/2021-01-12-5wMItiWp.mp4",
     "/assets/2021-03-01-HuDV4hRD.mp4",
     "/assets/2021-03-16-3xgRf_Sx.mp4",
@@ -1709,7 +1709,7 @@
     "/assets/2023-06-23-yYQoUeZR.mp4"
   ],
   "demo/2023-06-06.mp4?url": [
-    "/assets/demos-8ByJsALA.js",
+    "/assets/demos-dmWfeD2B.js",
     "/assets/2021-01-12-5wMItiWp.mp4",
     "/assets/2021-03-01-HuDV4hRD.mp4",
     "/assets/2021-03-16-3xgRf_Sx.mp4",
@@ -1738,7 +1738,7 @@
     "/assets/2023-06-23-yYQoUeZR.mp4"
   ],
   "demo/2023-06-15.md": [
-    "/assets/demos-8ByJsALA.js",
+    "/assets/demos-dmWfeD2B.js",
     "/assets/2021-01-12-5wMItiWp.mp4",
     "/assets/2021-03-01-HuDV4hRD.mp4",
     "/assets/2021-03-16-3xgRf_Sx.mp4",
@@ -1767,7 +1767,7 @@
     "/assets/2023-06-23-yYQoUeZR.mp4"
   ],
   "demo/2023-06-15.mp4?url": [
-    "/assets/demos-8ByJsALA.js",
+    "/assets/demos-dmWfeD2B.js",
     "/assets/2021-01-12-5wMItiWp.mp4",
     "/assets/2021-03-01-HuDV4hRD.mp4",
     "/assets/2021-03-16-3xgRf_Sx.mp4",
@@ -1796,7 +1796,7 @@
     "/assets/2023-06-23-yYQoUeZR.mp4"
   ],
   "demo/2023-06-23.md": [
-    "/assets/demos-8ByJsALA.js",
+    "/assets/demos-dmWfeD2B.js",
     "/assets/2021-01-12-5wMItiWp.mp4",
     "/assets/2021-03-01-HuDV4hRD.mp4",
     "/assets/2021-03-16-3xgRf_Sx.mp4",
@@ -1825,7 +1825,7 @@
     "/assets/2023-06-23-yYQoUeZR.mp4"
   ],
   "demo/2023-06-23.mp4?url": [
-    "/assets/demos-8ByJsALA.js",
+    "/assets/demos-dmWfeD2B.js",
     "/assets/2021-01-12-5wMItiWp.mp4",
     "/assets/2021-03-01-HuDV4hRD.mp4",
     "/assets/2021-03-16-3xgRf_Sx.mp4",
@@ -1854,7 +1854,7 @@
     "/assets/2023-06-23-yYQoUeZR.mp4"
   ],
   "demo/data.ts": [
-    "/assets/demos-8ByJsALA.js",
+    "/assets/demos-dmWfeD2B.js",
     "/assets/2021-01-12-5wMItiWp.mp4",
     "/assets/2021-03-01-HuDV4hRD.mp4",
     "/assets/2021-03-16-3xgRf_Sx.mp4",
@@ -1886,13 +1886,13 @@
   "node_modules/.pnpm/@floating-ui+core@1.3.1/node_modules/@floating-ui/core/dist/floating-ui.core.browser.min.mjs": [],
   "node_modules/.pnpm/@floating-ui+dom@1.1.1/node_modules/@floating-ui/dom/dist/floating-ui.dom.browser.min.mjs": [],
   "node_modules/.pnpm/@shikijs+core@1.2.0/node_modules/@shikijs/core/dist/index.mjs": [
-    "/assets/shiki-magic-move-Wefs3vLA.js"
+    "/assets/shiki-magic-move-ts2oc2QH.js"
   ],
   "node_modules/.pnpm/@shikijs+core@1.2.0/node_modules/@shikijs/core/dist/textmate.mjs": [
-    "/assets/shiki-magic-move-Wefs3vLA.js"
+    "/assets/shiki-magic-move-ts2oc2QH.js"
   ],
   "node_modules/.pnpm/@shikijs+core@1.2.0/node_modules/@shikijs/core/dist/types.mjs": [
-    "/assets/shiki-magic-move-Wefs3vLA.js"
+    "/assets/shiki-magic-move-ts2oc2QH.js"
   ],
   "node_modules/.pnpm/@shikijs+core@1.2.0/node_modules/@shikijs/core/dist/wasm-inlined.mjs": [
     "/assets/wasm-4nFaDgOp.js"
@@ -1912,7 +1912,7 @@
   "node_modules/.pnpm/dayjs@1.11.10/node_modules/dayjs/dayjs.min.js": [],
   "node_modules/.pnpm/dayjs@1.11.10/node_modules/dayjs/plugin/localizedFormat.js": [],
   "node_modules/.pnpm/diff-match-patch-es@0.1.0/node_modules/diff-match-patch-es/dist/index.mjs": [
-    "/assets/shiki-magic-move-Wefs3vLA.js"
+    "/assets/shiki-magic-move-ts2oc2QH.js"
   ],
   "node_modules/.pnpm/floating-vue@2.0.0-beta.24_vue@3.4.21/node_modules/floating-vue/dist/floating-vue.mjs": [],
   "node_modules/.pnpm/floating-vue@2.0.0-beta.24_vue@3.4.21/node_modules/floating-vue/dist/style.css": [],
@@ -1922,18 +1922,18 @@
   "node_modules/.pnpm/markdown-it-github-alerts@0.3.0_markdown-it@14.1.0/node_modules/markdown-it-github-alerts/styles/github-colors-light.css": [],
   "node_modules/.pnpm/nprogress@0.2.0/node_modules/nprogress/nprogress.js": [],
   "node_modules/.pnpm/ohash@1.1.3/node_modules/ohash/dist/index.mjs": [
-    "/assets/shiki-magic-move-Wefs3vLA.js"
+    "/assets/shiki-magic-move-ts2oc2QH.js"
   ],
   "node_modules/.pnpm/pinia@2.1.7_typescript@5.4.3_vue@3.4.21/node_modules/pinia/dist/pinia.mjs": [],
   "node_modules/.pnpm/shiki-magic-move@0.3.4_shiki@1.2.0_vue@3.4.21/node_modules/shiki-magic-move/dist/core.mjs": [
-    "/assets/shiki-magic-move-Wefs3vLA.js"
+    "/assets/shiki-magic-move-ts2oc2QH.js"
   ],
   "node_modules/.pnpm/shiki-magic-move@0.3.4_shiki@1.2.0_vue@3.4.21/node_modules/shiki-magic-move/dist/renderer.mjs": [
-    "/assets/shiki-magic-move-Wefs3vLA.js"
+    "/assets/shiki-magic-move-ts2oc2QH.js"
   ],
   "node_modules/.pnpm/shiki-magic-move@0.3.4_shiki@1.2.0_vue@3.4.21/node_modules/shiki-magic-move/dist/style.css": [],
   "node_modules/.pnpm/shiki-magic-move@0.3.4_shiki@1.2.0_vue@3.4.21/node_modules/shiki-magic-move/dist/vue.mjs": [
-    "/assets/shiki-magic-move-Wefs3vLA.js"
+    "/assets/shiki-magic-move-ts2oc2QH.js"
   ],
   "node_modules/.pnpm/shiki@1.2.0/node_modules/shiki/dist/langs/coffee.mjs": [
     "/assets/vue-GR_AWFJy.js"
@@ -2027,19 +2027,19 @@
   "node_modules/.pnpm/vue-router-better-scroller@0.0.0_vue-router@4.2.5_vue@3.4.21/node_modules/vue-router-better-scroller/dist/index.mjs": [],
   "node_modules/.pnpm/vue-router@4.2.5_vue@3.4.21/node_modules/vue-router/dist/vue-router.mjs": [],
   "pages/[...404].md": [
-    "/assets/_...404_-fagz5YiI.js"
+    "/assets/_...404_-G3mVJW7k.js"
   ],
   "pages/bookmarks.md": [
-    "/assets/bookmarks-tledAUqE.js"
+    "/assets/bookmarks-0KAGTCpF.js"
   ],
   "pages/chat-zh.md": [
-    "/assets/chat-zh-dgvFKmRJ.js"
+    "/assets/chat-zh-MnBQToR3.js"
   ],
   "pages/chat.md": [
-    "/assets/chat-cbK3-lBQ.js"
+    "/assets/chat-u6PWd_Z7.js"
   ],
   "pages/demos.md": [
-    "/assets/demos-8ByJsALA.js",
+    "/assets/demos-dmWfeD2B.js",
     "/assets/2021-01-12-5wMItiWp.mp4",
     "/assets/2021-03-01-HuDV4hRD.mp4",
     "/assets/2021-03-16-3xgRf_Sx.mp4",
@@ -2068,253 +2068,253 @@
     "/assets/2023-06-23-yYQoUeZR.mp4"
   ],
   "pages/giving-talks.md": [
-    "/assets/giving-talks-Bv3qBfP5.js"
+    "/assets/giving-talks-b-E0r61e.js"
   ],
   "pages/index.md": [],
   "pages/notes.md": [
-    "/assets/notes-2WYqRHqj.js"
+    "/assets/notes-DVH2y98d.js"
   ],
   "pages/podcasts.md": [
-    "/assets/podcasts-6lmTmNE4.js"
+    "/assets/podcasts-LZIUjVWp.js"
   ],
   "pages/posts/about-yak-shaving-zh.md": [
-    "/assets/about-yak-shaving-zh-UtwFXeoa.js"
+    "/assets/about-yak-shaving-zh-SEiH9mAJ.js"
   ],
   "pages/posts/about-yak-shaving.md": [
-    "/assets/about-yak-shaving-8PCgvDyy.js"
+    "/assets/about-yak-shaving-rp1bzjrT.js"
   ],
   "pages/posts/ai-qrcode-101.md": [
-    "/assets/ai-qrcode-101-wjj6N111.js",
+    "/assets/ai-qrcode-101-oZg-gcDo.js",
     "/assets/ai-qrcode-101-DahVa5l3.css"
   ],
   "pages/posts/ai-qrcode-refine.md": [
-    "/assets/ai-qrcode-refine-Nn1m3UMw.js"
+    "/assets/ai-qrcode-refine-hfmWqm7e.js"
   ],
   "pages/posts/ai-qrcode.md": [
-    "/assets/ai-qrcode-e59E_fXP.js"
+    "/assets/ai-qrcode-Zkk8TXs5.js"
   ],
   "pages/posts/animated-svg-logo.md": [
-    "/assets/animated-svg-logo-cqiwEHve.js",
+    "/assets/animated-svg-logo-GrZKvLfm.js",
     "/assets/animated-svg-logo-8T7YcC_E.css"
   ],
   "pages/posts/async-with-composition-api.md": [
-    "/assets/async-with-composition-api-iFj2ZYL0.js"
+    "/assets/async-with-composition-api-29qy96fq.js"
   ],
   "pages/posts/binfe-2020-zh.md": [
-    "/assets/binfe-2020-zh-GV4kS5KS.js"
+    "/assets/binfe-2020-zh-wW9q_l92.js"
   ],
   "pages/posts/bonjour-paris.md": [
-    "/assets/bonjour-paris-M1Vv4Mwj.js"
+    "/assets/bonjour-paris-sBy5Tz6S.js"
   ],
   "pages/posts/break-lines-in-js.md": [
-    "/assets/break-lines-in-js-rCTeRtnx.js"
+    "/assets/break-lines-in-js-6e8FYn0V.js"
   ],
   "pages/posts/color-scheme-for-vscode-ext.md": [
-    "/assets/color-scheme-for-vscode-ext-wOMrsM6v.js"
+    "/assets/color-scheme-for-vscode-ext-XOmDVX3G.js"
   ],
   "pages/posts/composable-vue-vueconf-china-2021.md": [
-    "/assets/composable-vue-vueconf-china-2021-ZKjTktgp.js"
+    "/assets/composable-vue-vueconf-china-2021-XbAi3G9o.js"
   ],
   "pages/posts/composable-vue-vueday-2021.md": [
-    "/assets/composable-vue-vueday-2021-qQsqbieh.js"
+    "/assets/composable-vue-vueday-2021-H1WEnYks.js"
   ],
   "pages/posts/destructuring-with-object-or-array.md": [
-    "/assets/destructuring-with-object-or-array--VoPZYPc.js"
+    "/assets/destructuring-with-object-or-array-HII9cixQ.js"
   ],
   "pages/posts/dev-ssr-on-nuxt.md": [
-    "/assets/dev-ssr-on-nuxt-AiXLrDAM.js"
+    "/assets/dev-ssr-on-nuxt-Efuh4cPj.js"
   ],
   "pages/posts/domain-email.md": [
-    "/assets/domain-email-yGUGGFmT.js"
+    "/assets/domain-email-1Mabu-yP.js"
   ],
   "pages/posts/eslint-config-inspector.md": [
-    "/assets/eslint-config-inspector-wH2V1wY3.js"
+    "/assets/eslint-config-inspector-7xtVfPNu.js"
   ],
   "pages/posts/evolution-of-shiki-v1.md": [
-    "/assets/evolution-of-shiki-v1-NkdIc6Gp.js"
+    "/assets/evolution-of-shiki-v1-9O3I5i0g.js"
   ],
   "pages/posts/get-package-root.md": [
-    "/assets/get-package-root-4yRcIP6r.js"
+    "/assets/get-package-root-xLX1Jk7l.js"
   ],
   "pages/posts/github-alerts.md": [
-    "/assets/github-alerts-uFOCPqKX.js"
+    "/assets/github-alerts-emxJu5P9.js"
   ],
   "pages/posts/github-co-authors.md": [
-    "/assets/github-co-authors-8VZC4V4Q.js"
+    "/assets/github-co-authors-xanAcaXJ.js"
   ],
   "pages/posts/icons-in-pure-css-zh.md": [
-    "/assets/icons-in-pure-css-zh-0UJ6m3Gh.js"
+    "/assets/icons-in-pure-css-zh-YE5H67vK.js"
   ],
   "pages/posts/icons-in-pure-css.md": [
-    "/assets/icons-in-pure-css-WVqxP_zh.js"
+    "/assets/icons-in-pure-css-zCQWR2EA.js"
   ],
   "pages/posts/index.md": [
-    "/assets/index-atwCFuc8.js"
+    "/assets/index-Voy-4DBZ.js"
   ],
   "pages/posts/introducing-nuxt-devtools.md": [
-    "/assets/introducing-nuxt-devtools-HpaeYvQZ.js"
+    "/assets/introducing-nuxt-devtools-VrYlb0B6.js"
   ],
   "pages/posts/introduction-to-vitest-vue-nation-2022.md": [
-    "/assets/introduction-to-vitest-vue-nation-2022-ZXb2eaKb.js"
+    "/assets/introduction-to-vitest-vue-nation-2022-glB7ZMRU.js"
   ],
   "pages/posts/isomorphic-dirname.md": [
-    "/assets/isomorphic-dirname-Mpeo9qyr.js"
+    "/assets/isomorphic-dirname-p0V7GUO7.js"
   ],
   "pages/posts/journey-with-icons-continues.md": [
-    "/assets/journey-with-icons-continues-IHSHB4ue.js"
+    "/assets/journey-with-icons-continues-g122JDMh.js"
   ],
   "pages/posts/journey-with-icons.md": [
-    "/assets/journey-with-icons-PeavSCOS.js"
+    "/assets/journey-with-icons-dgISWWQF.js"
   ],
   "pages/posts/make-libraries-working-with-vue-2-and-3.md": [
-    "/assets/make-libraries-working-with-vue-2-and-3-NfhDciXt.js"
+    "/assets/make-libraries-working-with-vue-2-and-3-3WP4Bkxt.js"
   ],
   "pages/posts/manage-github-notifcations-2023.md": [
-    "/assets/manage-github-notifcations-2023-KKEgFIUQ.js"
+    "/assets/manage-github-notifcations-2023-m6HkHJcP.js"
   ],
   "pages/posts/match-chinese-characters.md": [
-    "/assets/match-chinese-characters-TYoz5c4x.js"
+    "/assets/match-chinese-characters-SOqH1rbw.js"
   ],
   "pages/posts/mental-health-oss-zh.md": [
-    "/assets/mental-health-oss-zh-JTd7YxMI.js"
+    "/assets/mental-health-oss-zh-5WSewz2-.js"
   ],
   "pages/posts/mental-health-oss.md": [
-    "/assets/mental-health-oss-VHOKsuvM.js"
+    "/assets/mental-health-oss-mh3lSS5L.js"
   ],
   "pages/posts/netlify-redirects.md": [
-    "/assets/netlify-redirects-qmaMAvx3.js"
+    "/assets/netlify-redirects-uSOstQ_R.js"
   ],
   "pages/posts/new-house.md": [
-    "/assets/new-house-8VEgT0g0.js"
+    "/assets/new-house-OfFwrnde.js"
   ],
   "pages/posts/new-ways-to-vue-london-2021.md": [
-    "/assets/new-ways-to-vue-london-2021-l4Z8i8tw.js"
+    "/assets/new-ways-to-vue-london-2021-wEGVOARs.js"
   ],
   "pages/posts/new-ways-to-vue-taiwan-2021.md": [
-    "/assets/new-ways-to-vue-taiwan-2021-RrJ_zAOV.js"
+    "/assets/new-ways-to-vue-taiwan-2021-AWk3kPR5.js"
   ],
   "pages/posts/now-and-future-devtools-nuxt-nation-2023.md": [
-    "/assets/now-and-future-devtools-nuxt-nation-2023-OOqRS8aL.js"
+    "/assets/now-and-future-devtools-nuxt-nation-2023-8ruEXwbs.js"
   ],
   "pages/posts/npm-binary-mirrors.md": [
-    "/assets/npm-binary-mirrors-eMmJ1km3.js"
+    "/assets/npm-binary-mirrors-P6nUTjvM.js"
   ],
   "pages/posts/nuxt-devtools-v1.md": [
-    "/assets/nuxt-devtools-v1-2xPVXbLa.js"
+    "/assets/nuxt-devtools-v1-E6c-2nsy.js"
   ],
   "pages/posts/nuxt-dx-2023.md": [
-    "/assets/nuxt-dx-2023-vfLcK-jS.js"
+    "/assets/nuxt-dx-2023-wRrh0ERm.js"
   ],
   "pages/posts/optimize-await.md": [
-    "/assets/optimize-await-qxWvTRYM.js"
+    "/assets/optimize-await-lnW9qU3d.js"
   ],
   "pages/posts/patterns-of-vueuse-vuefes-japan-2022.md": [
-    "/assets/patterns-of-vueuse-vuefes-japan-2022-EccOq9yd.js"
+    "/assets/patterns-of-vueuse-vuefes-japan-2022-nkVR9R3m.js"
   ],
   "pages/posts/pnpm-external-disk.md": [
-    "/assets/pnpm-external-disk-U6BnrUlH.js"
+    "/assets/pnpm-external-disk-t5M8pQW9.js"
   ],
   "pages/posts/publish-esm-and-cjs.md": [
-    "/assets/publish-esm-and-cjs-hcpeSbK5.js"
+    "/assets/publish-esm-and-cjs-ggEQaCIK.js"
   ],
   "pages/posts/range-in-javascript.md": [
-    "/assets/range-in-javascript-9KHc5mvY.js"
+    "/assets/range-in-javascript-j_FrntXg.js"
   ],
   "pages/posts/reflection-of-speaking-in-public.md": [
-    "/assets/reflection-of-speaking-in-public-3xCji-rw.js"
+    "/assets/reflection-of-speaking-in-public-9DMQj5PE.js"
   ],
   "pages/posts/reimagine-atomic-css-zh.md": [
-    "/assets/reimagine-atomic-css-zh-jVU_euvm.js"
+    "/assets/reimagine-atomic-css-zh-0KWD09Lr.js"
   ],
   "pages/posts/reimagine-atomic-css.md": [
-    "/assets/reimagine-atomic-css-61HS8U9D.js"
+    "/assets/reimagine-atomic-css-AQcnPN60.js"
   ],
   "pages/posts/rewrite-in-vite.md": [
-    "/assets/rewrite-in-vite-3u_23h_t.js"
+    "/assets/rewrite-in-vite-g7uL5xq0.js"
   ],
   "pages/posts/roads-to-oss-progressive-vueams-2024.md": [
-    "/assets/roads-to-oss-progressive-vueams-2024-vh47_k8N.js"
+    "/assets/roads-to-oss-progressive-vueams-2024-u0nPf-Bz.js"
   ],
   "pages/posts/roads-to-oss-set-theory-react-paris-2024.md": [
-    "/assets/roads-to-oss-set-theory-react-paris-2024-LOkjBwhq.js"
+    "/assets/roads-to-oss-set-theory-react-paris-2024-Dst4LidF.js"
   ],
   "pages/posts/roads-to-oss-set-theory-viteconf-2023.md": [
-    "/assets/roads-to-oss-set-theory-viteconf-2023-6sT1DIOk.js"
+    "/assets/roads-to-oss-set-theory-viteconf-2023-7UGOkTSy.js"
   ],
   "pages/posts/roads-to-oss-set-theory-vuefesjapan-2023.md": [
-    "/assets/roads-to-oss-set-theory-vuefesjapan-2023-eUs4ES0w.js"
+    "/assets/roads-to-oss-set-theory-vuefesjapan-2023-ss4KyzPf.js"
   ],
   "pages/posts/shiki-magic-move.md": [
-    "/assets/shiki-magic-move-Wefs3vLA.js"
+    "/assets/shiki-magic-move-ts2oc2QH.js"
   ],
   "pages/posts/shikiji-twoslash.md": [
-    "/assets/shikiji-twoslash-Fz_HzxLx.js"
+    "/assets/shikiji-twoslash-ndynXZXX.js"
   ],
   "pages/posts/sliding-enter-animation.md": [
-    "/assets/sliding-enter-animation-xL4483p3.js"
+    "/assets/sliding-enter-animation-MzTmw5M9.js"
   ],
   "pages/posts/type-inferencing-in-vue.md": [
-    "/assets/type-inferencing-in-vue-ipDqlPBV.js"
+    "/assets/type-inferencing-in-vue-wsqwvTQr.js"
   ],
   "pages/posts/type-your-config.md": [
-    "/assets/type-your-config-0PBxOUl3.js"
+    "/assets/type-your-config-Qk4j3eYG.js"
   ],
   "pages/posts/typed-provide-and-inject-in-vue.md": [
-    "/assets/typed-provide-and-inject-in-vue-bTkWc0ey.js"
+    "/assets/typed-provide-and-inject-in-vue-MfQroWu2.js"
   ],
   "pages/posts/types-for-sub-modules.md": [
-    "/assets/types-for-sub-modules-8isC8NXU.js"
+    "/assets/types-for-sub-modules-oVOy3ggr.js"
   ],
   "pages/posts/vite-on-demand-dx-viteconf-2022.md": [
-    "/assets/vite-on-demand-dx-viteconf-2022-veRVlEaJ.js"
+    "/assets/vite-on-demand-dx-viteconf-2022-Fod-k9ar.js"
   ],
   "pages/posts/vue-3-notes.md": [
-    "/assets/vue-3-notes-vS7eE7Lm.js"
+    "/assets/vue-3-notes--U4I1Xfi.js"
   ],
   "pages/posts/vue-beijing-2021.md": [
-    "/assets/vue-beijing-2021-Y7QMYAws.js"
+    "/assets/vue-beijing-2021-TeYydkdY.js"
   ],
   "pages/posts/vueuse-best-practice-vueconf-china-2022.md": [
-    "/assets/vueuse-best-practice-vueconf-china-2022-1sso3WY6.js"
+    "/assets/vueuse-best-practice-vueconf-china-2022-i8njxK_k.js"
   ],
   "pages/posts/watch-with-reactivity.md": [
-    "/assets/watch-with-reactivity-rd7BiSe9.js"
+    "/assets/watch-with-reactivity-T60hTqho.js"
   ],
   "pages/posts/why-not-prettier-zh.md": [
-    "/assets/why-not-prettier-zh-9eZbisDk.js"
+    "/assets/why-not-prettier-zh-A5EDQqAX.js"
   ],
   "pages/posts/why-not-prettier.md": [
-    "/assets/why-not-prettier-oj5hQU0W.js"
+    "/assets/why-not-prettier-B8gskLs1.js"
   ],
   "pages/posts/why-reproductions-are-required-zh.md": [
-    "/assets/why-reproductions-are-required-zh-I2U4ijVP.js"
+    "/assets/why-reproductions-are-required-zh-0O925B_j.js"
   ],
   "pages/posts/why-reproductions-are-required.md": [
-    "/assets/why-reproductions-are-required-4xieV4vC.js"
+    "/assets/why-reproductions-are-required-XO-RCLay.js"
   ],
   "pages/posts/windicss-and-tailwind-jit.md": [
-    "/assets/windicss-and-tailwind-jit-psAMFHmv.js"
+    "/assets/windicss-and-tailwind-jit-lKeQ5lzA.js"
   ],
   "pages/projects.md": [
-    "/assets/projects-RtvdnR3x.js",
+    "/assets/projects-2VsAcd00.js",
     "/assets/projects-3kh7VX0H.css"
   ],
   "pages/streams.md": [
-    "/assets/streams-WjTdDa-S.js"
+    "/assets/streams-cVPcR34X.js"
   ],
   "pages/talks.md": [
-    "/assets/talks-LDwtZOlY.js"
+    "/assets/talks-QIOV6cc8.js"
   ],
   "src/App.vue?vue&type=script&setup=true&lang.ts": [],
   "src/components/CalCom.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/CalCom.vue_vue_type_script_setup_true_lang-Z2WT_lkx.js"
+    "/assets/CalCom.vue_vue_type_script_setup_true_lang-XQjiWSUs.js"
   ],
   "src/components/Footer.vue": [],
   "src/components/GitHubLink.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/GitHubLink.vue_vue_type_script_setup_true_lang-Ip3TFe6k.js"
+    "/assets/GitHubLink.vue_vue_type_script_setup_true_lang-SPc99-So.js"
   ],
   "src/components/ListDemos.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/demos-8ByJsALA.js",
+    "/assets/demos-dmWfeD2B.js",
     "/assets/2021-01-12-5wMItiWp.mp4",
     "/assets/2021-03-01-HuDV4hRD.mp4",
     "/assets/2021-03-16-3xgRf_Sx.mp4",
@@ -2343,28 +2343,28 @@
     "/assets/2023-06-23-yYQoUeZR.mp4"
   ],
   "src/components/ListPosts.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/SubNav.vue_vue_type_script_setup_true_lang-Q8-Ps49s.js"
+    "/assets/SubNav.vue_vue_type_script_setup_true_lang-TID-H6nL.js"
   ],
   "src/components/ListProjects.vue": [
-    "/assets/projects-RtvdnR3x.js",
+    "/assets/projects-2VsAcd00.js",
     "/assets/projects-3kh7VX0H.css"
   ],
   "src/components/ListProjects.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/projects-RtvdnR3x.js",
+    "/assets/projects-2VsAcd00.js",
     "/assets/projects-3kh7VX0H.css"
   ],
   "src/components/ListProjects.vue?vue&type=style&index=0&scoped=5d3c3de5&lang.css": [
-    "/assets/projects-RtvdnR3x.js",
+    "/assets/projects-2VsAcd00.js",
     "/assets/projects-3kh7VX0H.css"
   ],
   "src/components/Logo.vue": [],
   "src/components/Logo.vue?vue&type=style&index=0&scoped=69a3f4dd&lang.css": [],
   "src/components/LogoStroke.vue": [
-    "/assets/animated-svg-logo-cqiwEHve.js",
+    "/assets/animated-svg-logo-GrZKvLfm.js",
     "/assets/animated-svg-logo-8T7YcC_E.css"
   ],
   "src/components/LogoStroke.vue?vue&type=style&index=0&scoped=e51ab784&lang.css": [
-    "/assets/animated-svg-logo-cqiwEHve.js",
+    "/assets/animated-svg-logo-GrZKvLfm.js",
     "/assets/animated-svg-logo-8T7YcC_E.css"
   ],
   "src/components/NavBar.vue": [],
@@ -2372,27 +2372,27 @@
   "src/components/NavBar.vue?vue&type=style&index=0&scoped=8c146fc2&lang.css": [],
   "src/components/Plum.vue?vue&type=script&setup=true&lang.ts": [],
   "src/components/SponsorButton.vue": [
-    "/assets/projects-RtvdnR3x.js",
+    "/assets/projects-2VsAcd00.js",
     "/assets/projects-3kh7VX0H.css"
   ],
   "src/components/StreamAnnouncement.vue": [
-    "/assets/streams-WjTdDa-S.js"
+    "/assets/streams-cVPcR34X.js"
   ],
   "src/components/SubNav.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/SubNav.vue_vue_type_script_setup_true_lang-Q8-Ps49s.js"
+    "/assets/SubNav.vue_vue_type_script_setup_true_lang-TID-H6nL.js"
   ],
   "src/components/TalkDate.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/talks-LDwtZOlY.js"
+    "/assets/talks-QIOV6cc8.js"
   ],
   "src/components/TextCopy.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/giving-talks-Bv3qBfP5.js"
+    "/assets/giving-talks-b-E0r61e.js"
   ],
   "src/components/ToggleTheme.vue?vue&type=script&setup=true&lang.ts": [],
   "src/components/Tweet.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/Tweet.vue_vue_type_script_setup_true_lang-S_RaGm00.js"
+    "/assets/Tweet.vue_vue_type_script_setup_true_lang-WdxFEkQa.js"
   ],
   "src/components/WrapperDemo.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/demos-8ByJsALA.js",
+    "/assets/demos-dmWfeD2B.js",
     "/assets/2021-01-12-5wMItiWp.mp4",
     "/assets/2021-03-01-HuDV4hRD.mp4",
     "/assets/2021-03-16-3xgRf_Sx.mp4",
@@ -2422,208 +2422,208 @@
   ],
   "src/components/WrapperPost.vue?vue&type=script&setup=true&lang.ts": [],
   "src/components/YouTubeEmbed.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/YouTubeEmbed.vue_vue_type_script_setup_true_lang-N29Ju5KZ.js"
+    "/assets/YouTubeEmbed.vue_vue_type_script_setup_true_lang-21WAIZdm.js"
   ],
   "src/components/icons/AnthonyFu.vue": [
-    "/assets/projects-RtvdnR3x.js",
+    "/assets/projects-2VsAcd00.js",
     "/assets/projects-3kh7VX0H.css"
   ],
   "src/components/icons/Elk.vue": [
-    "/assets/projects-RtvdnR3x.js",
+    "/assets/projects-2VsAcd00.js",
     "/assets/projects-3kh7VX0H.css"
   ],
   "src/components/icons/Slidev.vue": [
-    "/assets/Slidev-6waR9DWk.js"
+    "/assets/Slidev-z0E6pTO_.js"
   ],
   "src/components/icons/SolidLogo.vue": [
-    "/assets/journey-with-icons-continues-IHSHB4ue.js"
+    "/assets/journey-with-icons-continues-g122JDMh.js"
   ],
   "src/components/icons/Unocss.vue": [
-    "/assets/projects-RtvdnR3x.js",
+    "/assets/projects-2VsAcd00.js",
     "/assets/projects-3kh7VX0H.css"
   ],
   "src/components/icons/ViteLogo.vue": [
-    "/assets/journey-with-icons-continues-IHSHB4ue.js"
+    "/assets/journey-with-icons-continues-g122JDMh.js"
   ],
   "src/components/icons/Vitest.vue": [
-    "/assets/projects-RtvdnR3x.js",
+    "/assets/projects-2VsAcd00.js",
     "/assets/projects-3kh7VX0H.css"
   ],
   "src/components/icons/VueDemi.vue": [
-    "/assets/projects-RtvdnR3x.js",
+    "/assets/projects-2VsAcd00.js",
     "/assets/projects-3kh7VX0H.css"
   ],
   "src/components/icons/VueReactivity.vue": [
-    "/assets/projects-RtvdnR3x.js",
+    "/assets/projects-2VsAcd00.js",
     "/assets/projects-3kh7VX0H.css"
   ],
   "src/components/icons/VueUse.vue": [
-    "/assets/projects-RtvdnR3x.js",
+    "/assets/projects-2VsAcd00.js",
     "/assets/projects-3kh7VX0H.css"
   ],
   "src/components/qrcode/ImageMatrix.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/ai-qrcode-101-wjj6N111.js",
+    "/assets/ai-qrcode-101-oZg-gcDo.js",
     "/assets/ai-qrcode-101-DahVa5l3.css"
   ],
   "src/components/qrcode/QRCodeCompare.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/ai-qrcode-101-wjj6N111.js",
+    "/assets/ai-qrcode-101-oZg-gcDo.js",
     "/assets/ai-qrcode-101-DahVa5l3.css"
   ],
   "src/components/qrcode/QRCodeControlNetScale.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/ai-qrcode-101-wjj6N111.js",
+    "/assets/ai-qrcode-101-oZg-gcDo.js",
     "/assets/ai-qrcode-101-DahVa5l3.css"
   ],
   "src/components/qrcode/QRCodeMatrix.vue": [
-    "/assets/ai-qrcode-101-wjj6N111.js",
+    "/assets/ai-qrcode-101-oZg-gcDo.js",
     "/assets/ai-qrcode-101-DahVa5l3.css"
   ],
   "src/components/qrcode/QRCodeMatrix.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/ai-qrcode-101-wjj6N111.js",
+    "/assets/ai-qrcode-101-oZg-gcDo.js",
     "/assets/ai-qrcode-101-DahVa5l3.css"
   ],
   "src/components/qrcode/QRCodeMatrix.vue?vue&type=style&index=0&scoped=188b6bf0&lang.css": [
-    "/assets/ai-qrcode-101-wjj6N111.js",
+    "/assets/ai-qrcode-101-oZg-gcDo.js",
     "/assets/ai-qrcode-101-DahVa5l3.css"
   ],
   "src/components/qrcode/QRCodeMatrixModelPrompts.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/ai-qrcode-101-wjj6N111.js",
+    "/assets/ai-qrcode-101-oZg-gcDo.js",
     "/assets/ai-qrcode-101-DahVa5l3.css"
   ],
   "src/components/qrcode/QRCodeMatrixModelSamplers.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/ai-qrcode-101-wjj6N111.js",
+    "/assets/ai-qrcode-101-oZg-gcDo.js",
     "/assets/ai-qrcode-101-DahVa5l3.css"
   ],
   "src/components/qrcode/QRCodeOptionsSelect.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/ai-qrcode-101-wjj6N111.js",
+    "/assets/ai-qrcode-101-oZg-gcDo.js",
     "/assets/ai-qrcode-101-DahVa5l3.css"
   ],
   "src/components/qrcode/QRCodeSelectiveLayers.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/ai-qrcode-101-wjj6N111.js",
+    "/assets/ai-qrcode-101-oZg-gcDo.js",
     "/assets/ai-qrcode-101-DahVa5l3.css"
   ],
   "src/components/qrcode/QRNotScannable.vue": [
-    "/assets/QRNotScannable-QnRcIgPc.js"
+    "/assets/QRNotScannable-U7nASkGH.js"
   ],
   "src/components/shiki/ShikiMagicMoveDemo.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/shiki-magic-move-Wefs3vLA.js"
+    "/assets/shiki-magic-move-ts2oc2QH.js"
   ],
   "src/components/shiki/ShikiMagicMoveDemoCode.ts": [
-    "/assets/shiki-magic-move-Wefs3vLA.js"
+    "/assets/shiki-magic-move-ts2oc2QH.js"
   ],
   "src/components/shiki/ShikiMagicMoveMatch.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/shiki-magic-move-Wefs3vLA.js"
+    "/assets/shiki-magic-move-ts2oc2QH.js"
   ],
   "src/components/slides/DarkToggleButton.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/composable-vue-vueday-2021-qQsqbieh.js"
+    "/assets/composable-vue-vueday-2021-H1WEnYks.js"
   ],
   "src/components/slides/Marker.vue": [
-    "/assets/composable-vue-vueday-2021-qQsqbieh.js"
+    "/assets/composable-vue-vueday-2021-H1WEnYks.js"
   ],
   "src/components/slides/MarkerCore.vue": [
-    "/assets/composable-vue-vueday-2021-qQsqbieh.js"
+    "/assets/composable-vue-vueday-2021-H1WEnYks.js"
   ],
   "src/components/slides/MarkerPattern.vue": [
-    "/assets/composable-vue-vueday-2021-qQsqbieh.js"
+    "/assets/composable-vue-vueday-2021-H1WEnYks.js"
   ],
   "src/components/slides/MarkerTips.vue": [
-    "/assets/composable-vue-vueday-2021-qQsqbieh.js"
+    "/assets/composable-vue-vueday-2021-H1WEnYks.js"
   ],
   "src/components/slides/VueUseFn.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/composable-vue-vueday-2021-qQsqbieh.js"
+    "/assets/composable-vue-vueday-2021-H1WEnYks.js"
   ],
   "src/logics/index.ts": [],
   "src/main.ts": [],
   "src/store/shiki.ts": [
-    "/assets/shiki-magic-move-Wefs3vLA.js"
+    "/assets/shiki-magic-move-ts2oc2QH.js"
   ],
   "src/styles/main.css": [],
   "src/styles/markdown.css": [],
   "src/styles/prose.css": [],
   "~icons/ant-design/carry-out-twotone": [
-    "/assets/journey-with-icons-continues-IHSHB4ue.js"
+    "/assets/journey-with-icons-continues-g122JDMh.js"
   ],
   "~icons/bx/bx-planet": [
-    "/assets/journey-with-icons-continues-IHSHB4ue.js"
+    "/assets/journey-with-icons-continues-g122JDMh.js"
   ],
   "~icons/carbon/carbon": [
-    "/assets/journey-with-icons-continues-IHSHB4ue.js"
+    "/assets/journey-with-icons-continues-g122JDMh.js"
   ],
   "~icons/carbon/logo-github": [
-    "/assets/logo-github-OCc43XUl.js"
+    "/assets/logo-github-EDz73n6a.js"
   ],
   "~icons/eos-icons/installing": [
-    "/assets/journey-with-icons-continues-IHSHB4ue.js"
+    "/assets/journey-with-icons-continues-g122JDMh.js"
   ],
   "~icons/fa/beer": [
-    "/assets/journey-with-icons-continues-IHSHB4ue.js"
+    "/assets/journey-with-icons-continues-g122JDMh.js"
   ],
   "~icons/line-md/question-circle": [
-    "/assets/journey-with-icons-continues-IHSHB4ue.js"
+    "/assets/journey-with-icons-continues-g122JDMh.js"
   ],
   "~icons/logos/javascript": [
-    "/assets/journey-with-icons-continues-IHSHB4ue.js"
+    "/assets/journey-with-icons-continues-g122JDMh.js"
   ],
   "~icons/logos/nextjs-icon": [
-    "/assets/journey-with-icons-continues-IHSHB4ue.js"
+    "/assets/journey-with-icons-continues-g122JDMh.js"
   ],
   "~icons/logos/nuxt-icon": [
-    "/assets/journey-with-icons-continues-IHSHB4ue.js"
+    "/assets/journey-with-icons-continues-g122JDMh.js"
   ],
   "~icons/logos/preact": [
-    "/assets/journey-with-icons-continues-IHSHB4ue.js"
+    "/assets/journey-with-icons-continues-g122JDMh.js"
   ],
   "~icons/logos/react": [
-    "/assets/journey-with-icons-continues-IHSHB4ue.js"
+    "/assets/journey-with-icons-continues-g122JDMh.js"
   ],
   "~icons/logos/rollup": [
-    "/assets/journey-with-icons-continues-IHSHB4ue.js"
+    "/assets/journey-with-icons-continues-g122JDMh.js"
   ],
   "~icons/logos/svelte-icon": [
-    "/assets/journey-with-icons-continues-IHSHB4ue.js"
+    "/assets/journey-with-icons-continues-g122JDMh.js"
   ],
   "~icons/logos/vue": [
-    "/assets/journey-with-icons-continues-IHSHB4ue.js"
+    "/assets/journey-with-icons-continues-g122JDMh.js"
   ],
   "~icons/logos/webcomponents": [
-    "/assets/journey-with-icons-continues-IHSHB4ue.js"
+    "/assets/journey-with-icons-continues-g122JDMh.js"
   ],
   "~icons/logos/webpack": [
-    "/assets/journey-with-icons-continues-IHSHB4ue.js"
+    "/assets/journey-with-icons-continues-g122JDMh.js"
   ],
   "~icons/mdi/alarm": [
-    "/assets/journey-with-icons-continues-IHSHB4ue.js"
+    "/assets/journey-with-icons-continues-g122JDMh.js"
   ],
   "~icons/mdi/material-design": [
-    "/assets/journey-with-icons-continues-IHSHB4ue.js"
+    "/assets/journey-with-icons-continues-g122JDMh.js"
   ],
   "~icons/mdi/progress-question": [
-    "/assets/journey-with-icons-continues-IHSHB4ue.js"
+    "/assets/journey-with-icons-continues-g122JDMh.js"
   ],
   "~icons/ph/circle-wavy-question-duotone": [
-    "/assets/journey-with-icons-continues-IHSHB4ue.js"
+    "/assets/journey-with-icons-continues-g122JDMh.js"
   ],
   "~icons/tabler/bolt": [
-    "/assets/journey-with-icons-continues-IHSHB4ue.js"
+    "/assets/journey-with-icons-continues-g122JDMh.js"
   ],
   "~icons/tabler/code": [
-    "/assets/journey-with-icons-continues-IHSHB4ue.js"
+    "/assets/journey-with-icons-continues-g122JDMh.js"
   ],
   "~icons/tabler/confetti": [
-    "/assets/journey-with-icons-continues-IHSHB4ue.js"
+    "/assets/journey-with-icons-continues-g122JDMh.js"
   ],
   "~icons/tabler/triangle-square-circle": [
-    "/assets/journey-with-icons-continues-IHSHB4ue.js"
+    "/assets/journey-with-icons-continues-g122JDMh.js"
   ],
   "~icons/tabler/writing-sign": [
-    "/assets/journey-with-icons-continues-IHSHB4ue.js"
+    "/assets/journey-with-icons-continues-g122JDMh.js"
   ],
   "~icons/twemoji/face-with-tears-of-joy": [
-    "/assets/journey-with-icons-continues-IHSHB4ue.js"
+    "/assets/journey-with-icons-continues-g122JDMh.js"
   ],
   "~icons/twemoji/star-struck": [
-    "/assets/journey-with-icons-continues-IHSHB4ue.js"
+    "/assets/journey-with-icons-continues-g122JDMh.js"
   ],
   "~icons/uim/circle-layer": [
-    "/assets/journey-with-icons-continues-IHSHB4ue.js"
+    "/assets/journey-with-icons-continues-g122JDMh.js"
   ]
 }
