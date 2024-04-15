@@ -1,4 +1,4 @@
-**[antfu.me](https://antfu.me)**
+**[antfu.me](https://autaoo.github.io/)**
 
 my personal website
 

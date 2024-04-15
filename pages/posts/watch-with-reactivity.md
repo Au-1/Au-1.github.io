@@ -199,7 +199,7 @@ const state = reactive({
 
 watch(state, () => console.log('changed!'), { deep: true })
 
-state.info.name = 'Au-1'
+state.info.name = 'Au Taoo'
 // changed!
 ```
 

@@ -1,5 +1,5 @@
 ---
-title: 和 Au-1 聊聊天！
+title: 和 Au Taoo 聊聊天！
 display: 聊聊天！
 image: https://antfu.me/og-chat.png
 ---

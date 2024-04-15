@@ -1,5 +1,5 @@
 ---
-title: Projects - Au-1
+title: Projects - Au Taoo
 display: Projects
 description: List of projects that I am proud of
 wrapperClass: 'text-center'

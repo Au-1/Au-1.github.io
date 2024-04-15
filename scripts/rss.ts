@@ -8,7 +8,7 @@ import { Feed } from 'feed'
 
 const DOMAIN = 'https://antfu.me'
 const AUTHOR = {
-  name: 'Au-1',
+  name: 'Au Taoo',
   email: 'hi@antfu.me',
   link: DOMAIN,
 }
@@ -26,11 +26,11 @@ async function buildBlogRSS() {
   const files = await fg('pages/posts/*.md')
 
   const options = {
-    title: 'Au-1',
-    description: 'Au-1\' Blog',
+    title: 'Au Taoo',
+    description: 'Au Taoo\' Blog',
     id: 'https://antfu.me/',
     link: 'https://antfu.me/',
-    copyright: 'CC BY-NC-SA 4.0 2021 © Au-1',
+    copyright: 'CC BY-NC-SA 4.0 2021 © Au Taoo',
     feedLinks: {
       json: 'https://antfu.me/feed.json',
       atom: 'https://antfu.me/feed.atom',
