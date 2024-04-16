@@ -40,6 +40,6 @@ Find me on
   <a href="https://weibo.com/u/7485197193" target="_blank"><span op75 i-simple-icons-sinaweibo /> 微博</a> -->
 </p>
 
-Or mail me at <span font-mono>hu13550461071@gmail.com</span>
+Or mail me at <span font-mono>au_tao@163.com</span>
 
 <!-- If you enjoy my works, consider sponsoring me on [<span i-carbon-favorite /> GitHub Sponsor](https://github.com/sponsors/antfu) or [<span i-carbon-lightning /> 爱发电](https://afdian.net/a/antfu) to keep them sustainable. -->
