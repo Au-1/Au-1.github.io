@@ -74,10 +74,8 @@
     "vite-ssg": "^0.23.6",
     "vite-svg-loader": "^5.1.0"
   },
-  "simple-git-hooks": {
-    "pre-commit": "pnpm lint-staged"
-  },
+
   "lint-staged": {
-    "*": "eslint --fix"
+    "*": "eslint --fix" 
   }
 }

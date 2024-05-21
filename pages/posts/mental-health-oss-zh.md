@@ -1,26 +1,69 @@
 ---
-title: 开源的心理建设
+title: ES6
 description: 这是我在开源之旅中对自己心理健康的一些感悟和思考
-date: 2024-03-16T13:00:00.000+00:00
+date: 2024-05-21T13:00:00.000+00:00
 lang: zh
 duration: 25min
 ---
 
 [[toc]]
 
-> [English Version](/posts/mental-health-oss) ｜ 感谢 {@xxholly32} {@yyyanghj} 协助翻译
+<!-- > [English Version](/posts/mental-health-oss) ｜ 感谢 {@xxholly32} {@yyyanghj} 协助翻译 -->
 
-> **省流**: 我目前状态良好，并没有要离开开源。尽管还有一些压力，但仍然在尝试并改进现状。感谢关心！
-
-今年是我开始做开源的第四年。说实话，我越来越频繁地感觉到许多事情超出我的能力范围。我仍然不确定自己是否曾经真正经历过 [burnout（职业倦怠）](https://www.darlingdowns.health.qld.gov.au/about-us/our-stories/feature-articles/signs-you-might-be-experiencing-a-burnout-and-how-to-regain-balance-in-your-life#:~:text=Burnout%20is%20a%20state%20of,an%20increasing%20sense%20of%20hopelessness)，但我确实周期性地感受到生产力和积极性的起伏。
-
-这篇文章并不是一篇指南，也算不上是抱怨。它更像是我用来自我记录的个人日记。我只是觉得，如果能与你们分享这些内容，也许会很有意思。
-
-如果你正在经历职业倦怠或者感觉快要接近这个状态，我建议你休息一下、和其他人聊聊，并在必要时寻求专业帮助。此外，你也可以参考 [为开源维护者保持平衡](https://opensource.guide/maintaining-balance-for-open-source-maintainers/) 这篇优质的文章。照顾好自己！
-
-现在，就让我聊聊我近期的一些零碎的思考吧。
+ES6 是 JS 历史中一次十分重大的更新
 
 ---
+### let const
+### 模板字符串
+### 箭头函数
+### Symbol
+### Set Map
+### for of
+### Promise
+- 三种状态 
+  - pending 待定
+  - fulfilled 成功
+  - rejected 失败
+- 三种实例方法
+  - catch 
+  - then
+  - finally
+- 常用方法
+  - Promise.all 等待所有都成功或有一个被拒绝
+  - Promise.allSettled 等待所有都完成（无论成功与否）
+  - Promise.race 等待返回最快返回的（无论成功与否）
+  - Promise.any 等待返回第一个成功返回的
+### Async
+### Class
+### Decorator 装饰器
+### 函数默认值
+### 拓展运算符
+### 解构赋值
+### 数组拓展方法
+1. keys()
+2. entries()
+3. values()
+4. includes()
+5. find()
+6. findIndex()
+
+### 可选链
+### 逻辑操作符 ||=  &&=
+### 空值合并运算符 ??
+### 管道操作符
+```js
+const double = (n) => n * 2;
+const increment = (n) => n + 1;
+
+// 没有用管道操作符
+double(increment(double(5))); // 22
+
+// 用上管道操作符之后
+5 |> double |> increment |> double; // 22
+```
+
+
+<!-- 
 
 ### 措手不及
 
@@ -153,4 +196,4 @@ duration: 25min
 
 还有正在阅读这篇文章的**你**，以及整个开源社区！我非常感激你们给我的所有帮助和支持。
 
-下次再见，保重！
+下次再见，保重！ -->
