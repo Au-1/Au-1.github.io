@@ -74,7 +74,6 @@
     "vite-ssg": "^0.23.6",
     "vite-svg-loader": "^5.1.0"
   },
-
   "lint-staged": {
     "*": "eslint --fix" 
   }
