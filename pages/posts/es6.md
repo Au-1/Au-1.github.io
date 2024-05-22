@@ -3,7 +3,7 @@ title: ES6
 description: 这是我在开源之旅中对自己心理健康的一些感悟和思考
 date: 2024-05-21T13:00:00.000+00:00
 lang: zh
-duration: 25min
+duration: 5min
 ---
 
 [[toc]]
