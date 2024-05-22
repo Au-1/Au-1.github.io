@@ -55,7 +55,7 @@ function slug(name: string) {
         </a>
       </div>
     </div>
-    <div class="prose pb5 mx-auto mt10 text-center">
+    <!-- <div class="prose pb5 mx-auto mt10 text-center">
       <p op75>
         <em>
           Thanks for getting interested in my works! If like them or find them useful, consider
@@ -71,7 +71,7 @@ function slug(name: string) {
       <div block mt-5>
         <a href="https://antfu.me/stars-rank" target="_blank" op50>All projects sort by Stars</a>
       </div>
-    </div>
+    </div> -->
   </div>
   <div>
     <div class="table-of-contents">
